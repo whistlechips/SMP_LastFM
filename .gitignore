@@ -1,0 +1,13 @@
+# Local/private Last.fm data
+avatar.jpg
+avatar_*.jpg
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Local test packages
+*.fb2k-component
+*.zip
