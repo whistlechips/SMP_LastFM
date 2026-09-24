@@ -1,0 +1,11 @@
+SMP_LastFM 2L
+
+PACKAGE INSTALLATION
+1. Install Spider Monkey Panel 1.6.1 or compatible.
+2. Use the SMP Package Manager to import the SMP_LastFM 2L package ZIP.
+3. Add the SMP_LastFM panel/script to your foobar2000 layout as appropriate.
+4. Open Panel properties and enter your Last.fm username and API key.
+
+This repository contains both the source file (SMP_LastFM.js) and the
+SMP package entry point (main.js + package.json). The public release ZIP
+should be built from main.js, package.json, and the images folder.
