@@ -2,6 +2,7 @@
 
 A Spider Monkey Panel (SMP) for foobar2000 that displays Last.fm user,
 artist, album, and track statistics.
+<img width="1360" height="637" alt="image" src="https://github.com/user-attachments/assets/10090c45-e56f-4e6d-aebc-9fac898a9e20" />
 
 ## Features
 
